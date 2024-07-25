@@ -22,7 +22,7 @@ Problems (in lexicographical order) – status:
 - 🟢 Merge Sorted Array
 - 🟢 Range Sum Query - Immutable
 - 🟢 Rotate Array
-- 🟡 Sort Array by Parity II
+- 🟢 Sort Array by Parity II
 - 🟢 Sort Colors
 
 ## Recommended Homework
