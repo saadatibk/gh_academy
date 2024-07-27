@@ -19,7 +19,7 @@ Status colors list:
 
 Problems (in lexicographical order) – status:
 
-- 🔴 [Linked list cycle](https://leetcode.com/problems/linked-list-cycle/)
+- 🟢 [Linked list cycle](https://leetcode.com/problems/linked-list-cycle/)
 - 🔴 [Linked list cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - 🔴 [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - 🔴 [Range addition](https://leetcode.com/problems/range-addition/)
