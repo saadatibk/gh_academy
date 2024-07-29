@@ -15,6 +15,6 @@ class Solution {
             for (int i = 1; i < length; i++){
                 difference[i] += difference[i-1];
             }
-            return difference;    
+            return difference;    /
         }
     }
