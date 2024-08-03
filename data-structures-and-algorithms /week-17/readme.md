@@ -22,7 +22,7 @@ Problems (in lexicographical order) – status:
 - 🟢 [first-bad-version](https://leetcode.com/problems/first-bad-version/)
 - 🟢 [Sqrtx](https://leetcode.com/problems/sqrtx/)
 - 🟢 [find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- 🟡 [capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+- 🟢 [capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 - 🔴 [490](https://informatics.msk.ru/mod/statements/view.php?id=1966&chapterid=490#1)
 
 ## Recommended Homework
