@@ -18,7 +18,6 @@ public class VerySimpleProblem {
                     left = middle + 1;
                 }
             }
-
             System.out.println(Math.min(x,y) + answer);
         }
     }
