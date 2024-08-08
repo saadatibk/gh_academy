@@ -29,4 +29,4 @@ Problems (in lexicographical order) – status:
 
 Problems (in lexicographical order) – status:
 
-- 🔴 [kth-smallest-number-in-multiplication-table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)
+- 🟢 [kth-smallest-number-in-multiplication-table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)
