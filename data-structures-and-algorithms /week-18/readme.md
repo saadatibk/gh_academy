@@ -22,7 +22,7 @@ Problems (in lexicographical order) – status:
 - 🟢 [Two Sum II Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 - 🟢 [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 - 🟢 [String Compression](https://leetcode.com/problems/string-compression/description/)
-- 🟡 [Container with most water](https://leetcode.com/problems/container-with-most-water/description/)
+- 🟢 [Container with most water](https://leetcode.com/problems/container-with-most-water/description/)
   
 ## Recommended Homework
 
