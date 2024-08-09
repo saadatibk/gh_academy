@@ -28,4 +28,4 @@ Problems (in lexicographical order) – status:
 
 Problems (in lexicographical order) – status:
 
-- 🔴 [Trapping rain water](https://leetcode.com/problems/trapping-rain-water/)
+- 🟢 [Trapping rain water](https://leetcode.com/problems/trapping-rain-water/)
