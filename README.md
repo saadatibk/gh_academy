@@ -14,6 +14,7 @@ Status colors list:
 - 🟢 Week 15
 - 🔴 Week 16
 - 🔴 Week 17
+- 🔴 Week 18
 
 ## DS & A Homeworks Status
 
