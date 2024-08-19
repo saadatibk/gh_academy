@@ -28,5 +28,3 @@ Problems (in lexicographical order) – status:
 Problems (in lexicographical order) – status:
 
 - 🔴 4.2: 49
-- 🔴 4.2: 53
-- 🔴 4.2: 57
