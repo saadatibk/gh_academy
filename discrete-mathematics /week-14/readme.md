@@ -17,16 +17,13 @@ Status colors list:
 
 Problems (in lexicographical order) – status:
 
-- 🟢 4.2: 31
-- 🟢 4.2: 33
-- 🟢 4.2: 37
-- 🟢 4.2: 43
-- 🟢 4.2: 55
-
+- 🔴 1.1: 13, 33, 35, 41
+- 🔴 1.3: 15, 42, 45, 51
+- 🔴 1.4: 37, 53, 59, 61
+- 🔴 1.5: 19, 21, 31, 49
+  
 ## Recommended Homework
 
 Problems (in lexicographical order) – status:
 
-- 🔴 4.2: 49
-- 🔴 4.2: 53
-- 🔴 4.2: 57
+- 🔴 1.1: 49
