@@ -27,3 +27,6 @@ Problems (in lexicographical order) – status:
 ## Recommended Homework
 
 Problems (in lexicographical order) – status:
+
+- 🔴 5.1: 37
+- 🔴 5.1: 55
