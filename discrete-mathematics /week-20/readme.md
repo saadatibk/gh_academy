@@ -21,8 +21,8 @@ Problems (in lexicographical order) – status:
 - 🟢 5.1: 19
 - 🟢 5.1: 23
 - 🟢 5.1: 35
-- 🟡 5.1: 45
-- 🔴 5.1: 69
+- 🟢 5.1: 45
+- 🟢 5.1: 69
 
 ## Recommended Homework
 
