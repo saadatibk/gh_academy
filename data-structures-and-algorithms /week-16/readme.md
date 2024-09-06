@@ -21,8 +21,8 @@ Problems (in lexicographical order) – status:
 
 - 🟢 [two-sum](https://leetcode.com/problems/two-sum/)
 - 🟢 [group-anagrams](https://leetcode.com/problems/group-anagrams/)
-- 🔴 [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-- 🔴 [subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k/)
+- 🟢 [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- 🟡 [subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k/)
 - 🔴 [top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/)
   
 ## Recommended Homework
