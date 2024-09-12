@@ -22,7 +22,7 @@ Problems (in lexicographical order) – status:
 - 🟢 [fibonacci-number](https://leetcode.com/problems/fibonacci-number/)
 - 🟢 [powx-n](https://leetcode.com/problems/powx-n/)
 - 🟢 [Tower of Hanoi](https://informatics.msk.ru/mod/statements/view.php?id=2550#1)
-- 🔴 [Chips](https://informatics.msk.ru/mod/statements/view.php?id=268&chapterid=1414#1)
+- 🟢 [Chips](https://informatics.msk.ru/mod/statements/view.php?id=268&chapterid=1414#1)
 - 🔴 [permutations](https://leetcode.com/problems/permutations/)
 - 🔴 [combinations](https://leetcode.com/problems/combinations/)
   
