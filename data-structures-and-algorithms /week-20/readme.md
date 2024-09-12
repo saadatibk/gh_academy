@@ -27,3 +27,5 @@ Problems (in lexicographical order) – status:
 ## Recommended Homework
 
 Problems (in lexicographical order) – status:
+
+- 🔴 [Meet in the Middle](https://cses.fi/problemset/task/1628)
