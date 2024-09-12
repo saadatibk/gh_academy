@@ -27,7 +27,7 @@ Status colors list:
 - 🟢 Week 16
 - 🟢 Week 17
 - 🟢 Week 18
-- 🟡 Week 19
-- 🔴 Week 20
+- 🟢 Week 19
+- 🟡 Week 20
 - 🔴 Week 21
 - 🔴 Week 22
