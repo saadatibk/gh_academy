@@ -28,5 +28,5 @@ Problems (in lexicographical order) – status:
 
 Problems (in lexicographical order) – status:
 
-- 🔴 5.1: 37
+- 🟢 5.1: 37
 - 🔴 5.1: 55
