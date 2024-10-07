@@ -20,6 +20,7 @@ Status colors list:
 - 🟡 Week 21
 - 🔴 Week 22
 - 🟡 Week 23
+- 🔴 Week 24
   
 
 ## DS & A Homeworks Status
