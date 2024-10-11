@@ -4,7 +4,7 @@
 
 Use this format for homework submissions:
 
-- Upload a `.pdf` (or `.jpg`, `.png`) file(-s) which contain your solutions (handwritten, digital, LaTeX – doesn't matter) to the problems.
+- Upload a `.pdf` (or `.jpg`, `.png`) file(-s) which contains your solutions (handwritten, digital, LaTeX – doesn't matter) to the problems.
 - Track the list of solved and not solved problems as shown below. Prefix each problem with a status color (see below).
 
 Status colors list:
@@ -29,4 +29,4 @@ Problems (in lexicographical order) – status:
 Problems (in lexicographical order) – status:
 
 - 🟢 5.1: 37
-- 🔴 5.1: 55
+- 🟢 5.1: 55
