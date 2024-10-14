@@ -18,8 +18,8 @@ Status colors list:
 - 🟢 Week 19
 - 🟢 Week 20
 - 🟢 Week 21
-- 🔴 Week 22
-- 🟡 Week 23
+- 🟡 Week 22
+- 🔴 Week 23
 - 🔴 Week 24
   
 
