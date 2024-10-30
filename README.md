@@ -18,10 +18,10 @@ Status colors list:
 - 🟢 Week 19
 - 🟢 Week 20
 - 🟢 Week 21
-- 🟢 Week 23
-- 🟢 Week 24
-- 🔴 Week 25
-- 🔴 Week 26
+- 🟢 Week 23-24
+- 🟢 Week 25
+- 🔴 Week 26-27
+- 🔴 Week 28
   
 
 ## DS & A Homeworks Status
@@ -36,5 +36,6 @@ Status colors list:
 - 🔴 Week 21
 - 🔴 Week 22
 - 🔴 Week 23
+- 🔴 Week 24
 
 
