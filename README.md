@@ -20,7 +20,7 @@ Status colors list:
 - 🟢 Week 21
 - 🟢 Week 23-24
 - 🟢 Week 25
-- 🔴 Week 26-27
+- 🟢 Week 26-27
 - 🔴 Week 28
   
 
