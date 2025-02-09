@@ -18,5 +18,6 @@ class Solution {
         if( right < left){
             backtrack(res, left, right + 1, s + ")", n);
         }
+
     }
 }
