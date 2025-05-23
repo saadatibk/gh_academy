@@ -48,5 +48,6 @@ Status colors list:
 - 🔴 Week 28
 - 🔴 Week 29
 - 🔴 Week 30
-
+- 🔴 Week 31
+- 🔴 Week 32
 
