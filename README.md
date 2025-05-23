@@ -42,6 +42,11 @@ Status colors list:
 - 🟡 Week 22
 - 🔴 Week 23
 - 🔴 Week 24
-🔴 Week 25
+- 🔴 Week 25
+- 🔴 Week 26
+- 🔴 Week 27
+- 🔴 Week 28
+- 🔴 Week 29
+- 🔴 Week 30
 
 
