@@ -21,7 +21,7 @@ Problems (in lexicographical order) – status:
 
 - 🟢 [generate-parentheses](https://leetcode.com/problems/generate-parentheses/)
 - 🟢 [sudoku-solver](https://leetcode.com/problems/sudoku-solver/)
-- 🔴 [n-queens](https://leetcode.com/problems/n-queens/)
+- 🟢 [n-queens](https://leetcode.com/problems/n-queens/)
 - 🔴 [partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum/)
   
 ## Recommended Homework
